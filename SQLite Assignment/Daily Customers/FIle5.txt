@@ -1,0 +1,58 @@
+Challis of Torres game
+
+
+User selects character 
+
+    3 choices: knight, wizard, archer?
+
+User enters profile
+
+Database for PCs and NPCs
+
+    PC: 
+
+           Knight: Health(1000), Sword(2*d20)
+
+           Wizard: Health(1000), Fireball(2*d20)
+
+           Archer: Health(1000), Stl Arrw(2*d20)
+
+    NPC: 
+
+              Skeleton, 
+
+              Ghoul
+
+
+Combat based on roll of d20 module
+
+
+GUI:
+
+User choices
+
+Combat Commands: Fight, Runaway
+
+Movement Commands: Left, Right, Forward
+
+Display map
+
+Health Bar
+
+
+Logic:
+
+D20 function
+
+Movement function
+
+Combat function(One for each class) 
+
+Update map function 
+
+Character choice function
+
+Save function 
+
+Level up function 
+
